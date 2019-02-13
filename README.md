@@ -1,1 +1,2 @@
-# newGitTutorial
+everyone, learn to push pull and commit.
+try to modify this messege or create your own new messege since we are about to start the project in very professional way. better we learn this fast. have a good day.
